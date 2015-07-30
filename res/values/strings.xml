@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ipod</string>
+    <string name="action_settings">Settings</string>    
+    <string name="title">Everybody Loves A Lover</string>
+    <string name="artist">Troy Gabriella</string>
+    <string name="album">Battleground</string>
+    <string name="time_0">0:00</string>
+    <string name="liupai">Classic</string>
+    <string name="ipod_connect">IPOD NOT EXIST!</string>
+    <string name="unknow">unknow</string>
+    <string name="ipod_play">IPOD play</string>
+    <string name="ipod_enter">Enter IPOD</string>
+    <string name="download_info">Downloading music...</string>
+</resources>
